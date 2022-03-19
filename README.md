@@ -11,8 +11,8 @@ for today's task we had to create three events
 * The last one so the driver confirms that the orded is delivered.
 
 # links
-* [actions link]()
-* [PR link]()
+* [actions link](https://github.com/islam-Attar/caps/actions)
+* [PR link](https://github.com/islam-Attar/caps/pull/2)
 
 
 
